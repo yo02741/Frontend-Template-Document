@@ -67,3 +67,7 @@
 
 * [optimized dependencies changed. reloading 問題](else/optimized-dependencies-changed.-reloading-wen-ti.md)
 * [Frontend Infra](else/frontend-infra.md)
+
+***
+
+* [🆘 問題回報](wen-ti-hui-bao.md)
