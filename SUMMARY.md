@@ -2,20 +2,20 @@
 
 * [Frontend Template](README.md)
 
-## 0⃣ 開始之前 <a href="#before-start" id="before-start"></a>
+## 0️⃣ 開始之前 <a href="#before-start" id="before-start"></a>
 
 * [使用 Template 有什麼效益？](before-start/shi-yong-template-you-shi-mo-xiao-yi.md)
 * [Template 概念、實做參考](before-start/template-gai-nian-shi-zuo-can-kao.md)
 * [Template 提供哪些東西？](before-start/template-ti-gong-na-xie-dong-xi.md)
 
-## 1⃣ 建立專案 <a href="#create-project" id="create-project"></a>
+## 1️⃣ 建立專案 <a href="#create-project" id="create-project"></a>
 
 * [環境設置](create-project/huan-jing-she-zhi.md)
 * [設置 Shell Script](create-project/she-zhi-shell-script.md)
 * [建構專案](create-project/jian-gou-zhuan-an.md)
 * [Linter & Formatter 設置](create-project/linter-formatter-she-zhi.md)
 
-## 2⃣ 模板說明
+## 2️⃣ 模板說明
 
 * [Template 提供哪些東西？](mo-ban-shuo-ming/template-ti-gong-na-xie-dong-xi.md)
 * [Template 內容說明](mo-ban-shuo-ming/template-nei-rong-shuo-ming/README.md)
@@ -63,7 +63,7 @@
   * [vite-plugin-vue-devtools](mo-ban-shuo-ming/template-nei-rong-shuo-ming/vite-plugin-vue-devtools.md)
   * [vite-plugin-html-env](mo-ban-shuo-ming/template-nei-rong-shuo-ming/vite-plugin-html-env.md)
 
-## ℹ 其他 <a href="#else" id="else"></a>
+## ℹ️ 其他 <a href="#else" id="else"></a>
 
 * [optimized dependencies changed. reloading 問題](else/optimized-dependencies-changed.-reloading-wen-ti.md)
 * [Frontend Infra](else/frontend-infra.md)
@@ -71,3 +71,4 @@
 ***
 
 * [🆘 問題回報](wen-ti-hui-bao.md)
+* [🆕 更新日誌](geng-xin-ri-zhi.md)
