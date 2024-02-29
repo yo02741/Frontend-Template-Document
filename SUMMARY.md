@@ -71,4 +71,5 @@
 ***
 
 * [🆘 問題回報](wen-ti-hui-bao.md)
-* [🆕 更新日誌](geng-xin-ri-zhi.md)
+* [🆕 更新日誌](geng-xin-ri-zhi/README.md)
+  * [v1.0.0 (2024/02/27)](geng-xin-ri-zhi/v1.0.0-2024-02-27.md)
